@@ -1,0 +1,8 @@
+.ccls*
+CMakeCache.txt
+CMakeFiles/
+Debug/
+Makefile
+cmake_install.cmake
+compile_commands.json
+flowers
